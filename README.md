@@ -1,2 +1,2 @@
-# Machine_Learning_Kmeans
-Kmeans from Scratch
+# Machine Learning Kmeans and Fuzzy from scratch
+

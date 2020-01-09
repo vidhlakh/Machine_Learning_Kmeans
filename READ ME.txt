@@ -1,0 +1,2 @@
+Assignment Question 1 and 2 in Kmeans algorithm jupyter notebook
+Question 3 in Fuzzy c means jupyter notebook  
